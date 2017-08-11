@@ -6,6 +6,7 @@ printf("Hello world");
 printf("Zdravo svimaaa");
 printf("sladoleeed");
 
-printf("bazeen")
+printf("bazeen");
+printf("moreee");
 return 0;
 }
